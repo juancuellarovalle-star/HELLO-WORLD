@@ -1,4 +1,4 @@
 ## hobbies 
-*jugar al lol
-*trabajar
-*jugar a las cartas
+jugar al lol*
+trabajar*
+jugar a las cartas*
